@@ -1,18 +1,16 @@
 # Hi 👋, I'm Andrew Wang Dev
 
-### A passionate Shell developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndrewWangDev&label=Profile views&color=0e75b6&style=flat" alt="AndrewWangDev" /> </p>
+### A passionate developer
 
 - 🔭 I'm currently working on **Embedded systems and Web development**
 
-- 🌱 I'm currently learning **Python and JavaScript**
+- 🌱 Bilingual Network Enthusiast, Leveraging Python & JS for automation. Expert in OpenWrt solutions.
 
 - 📫 How to reach me **me@andrewwangdev.com**
 
-- ⚡ Fun fact **I am passionate, rigorous and patient, and really hope for international exchange and learning.**
+- ⚡ Featured Engineering **[Linux-based policy routing gateway implementing transparent proxying and traffic segmentation](https://github.com/AndrewWangDev/optimize_SWJTU_network)**
 
-- 👨‍💻 My profile are available at **[https://andrewwangdev.com/about/](https://andrewwangdev.com/about/)**
+- 👨‍💻 My portfolio is available at **[https://andrewwangdev.com/about/](https://andrewwangdev.com/about/)**
 
 - 📝 I regularly write articles on **[https://andrewwangdev.com](https://andrewwangdev.com)**
 
