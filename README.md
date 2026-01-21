@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Embedded systems and Web development**
 
-- 🌱 Bilingual Network Enthusiast, Leveraging Python & JS for automation. Expert in OpenWrt solutions.
+- 🌱 Bilingual Network Enthusiast, Leveraging Python & JS for automation. Expert in Network solutions.
 
 - 📫 How to reach me **me@andrewwangdev.com**
 
