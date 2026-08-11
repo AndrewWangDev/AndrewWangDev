@@ -15,11 +15,9 @@
 
 - 👨‍💻 My portfolio is available at **[https://andrewwangdev.com/about/](https://andrewwangdev.com/about/)**
 
-- 📝 Read my tech deep-dives at **[https://andrewwangdev.com](https://andrewwangdev.com)** *(Currently migrating to an Astro + Cloudflare edge architecture!)*
+- 📝 Read my tech deep-dives at **[https://andrewwangdev.com](https://andrewwangdev.com)** 
 
 - 📄 Connect with me professionally on **[LinkedIn](https://www.linkedin.com/in/andrew-wang-swjtu/)**
-
-- 𝕏 Follow my latest updates on **[X](https://x.com/andrewwangdev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
