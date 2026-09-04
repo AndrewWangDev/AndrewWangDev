@@ -11,7 +11,7 @@
   - 📱 **[SyncBrow](https://github.com/AndrewWangDev/SyncBrow)**: A privacy-centric Android web browser built with Jetpack Compose & Material 3.
   - 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)**: An open-source Git client designed for simplified visualization and error diagnosis.
 
-- 📫 How to reach me: **me@andrewwangdev.com**
+- 📫 How to reach me: **me@andrewwangdev.com**   Business Inquiries: **biz@andrewwangdev.com**
 
 - 👨‍💻 My portfolio is available at **[https://andrewwangdev.com/about/](https://andrewwangdev.com/about/)**
 
