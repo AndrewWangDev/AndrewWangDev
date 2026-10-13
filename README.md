@@ -2,9 +2,9 @@
 
 ### ⚡ Independent Full-Stack Developer & Software Engineer
 
-- 🔭 I'm currently working on **Scalable Full-Stack Architecture, Edge Computing Solutions, and High-Performance Frontend Engineering.**
+- 🔭 I'm currently working on **Scalable Full-Stack Architecture, Edge Computing Solutions, and Artificial Intelligence**
 
-- 🌱 Deep focus on **System Performance Optimization, Cloud-Native Architecture, and Modern Cross-Platform Development.**
+- 🌱 Deep focus on **Cloud-Native Architecture, Reinforcement Learning and Modern Cross-Platform Development.**
 
 - 🎯 **Featured Engineering:**
   - ✨ **[NanoMesh](https://github.com/AndrewWangDev/nanomesh)**: A Edge-Native AI Orchestration System for multi-modal routing and heterogeneous model orchestration.
