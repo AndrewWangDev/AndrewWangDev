@@ -7,8 +7,8 @@
 - 🌱 Deep focus on **System Performance Optimization, Cloud-Native Architecture, and Modern Cross-Platform Development.**
 
 - 🎯 **Featured Engineering:**
+  - ✨ **[NanoMesh](https://github.com/AndrewWangDev/nanomesh)**: A Edge-Native AI Orchestration System for multi-modal routing and heterogeneous model orchestration.
   - 🚀 **[Panic Design](https://github.com/AndrewWangDev/panic_design)**: A zero-server edge gateway for AI-driven chaos engineering.
-  - 📱 **[SyncBrow](https://github.com/AndrewWangDev/SyncBrow)**: A privacy-centric Android web browser built with Jetpack Compose & Material 3.
   - 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)**: An open-source Git client designed for simplified visualization and error diagnosis.
 
 - 📫 How to reach me: **me@andrewwangdev.com**   Business Inquiries: **biz@andrewwangdev.com**
