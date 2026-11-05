@@ -2,7 +2,7 @@
 
 ### ⚡ Independent Full-Stack Developer & Software Engineer
 
-- 🔭 I'm currently working on **Scalable Full-Stack Architecture, Edge Computing Solutions, and Artificial Intelligence**
+- 🔭 I'm currently working on **Scalable Full-Stack Architecture, Edge Computing Solutions, and Edge AI**
 
 - 🌱 Deep focus on **Cloud-Native Architecture, Reinforcement Learning and Modern Cross-Platform Development.**
 
