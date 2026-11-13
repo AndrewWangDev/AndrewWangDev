@@ -1,32 +1,40 @@
+<div align="center">
+
 # Hi 👋, I'm Andrew Wang Dev
 
-### ⚡ Independent Full-Stack Developer & Software Engineer
+**CS Undergraduate ('27) @ Southwest Jiaotong University · Cloud-Native, Edge AI <br> Independent Full-Stack Developer**
 
-- 🔭 I'm currently working on **Scalable Full-Stack Architecture, Edge Computing Solutions, and Edge AI**
+[![Blog](https://img.shields.io/badge/Tech_Blog-andrewwangdev.com-0F172A?style=flat-square&logo=astro&logoColor=white)](https://andrewwangdev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-About_Me-1E293B?style=flat-square&logo=cloudflare&logoColor=F38020)](https://andrewwangdev.com/about/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Wang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-wang-swjtu/)
+[![X](https://img.shields.io/badge/X-@AndrewWangDev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/andrewwangdev)
+[![Email](https://img.shields.io/badge/Email-me%40andrewwangdev.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:me@andrewwangdev.com)
 
-- 🌱 Deep focus on **Cloud-Native Architecture, Reinforcement Learning and Modern Cross-Platform Development.**
+</div>
 
-- 🎯 **Featured Engineering:**
-  - ✨ **[NanoMesh](https://github.com/AndrewWangDev/nanomesh)**: A Edge-Native AI Orchestration System for multi-modal routing and heterogeneous model orchestration.
-  - 🚀 **[Panic Design](https://github.com/AndrewWangDev/panic_design)**: A zero-server edge gateway for AI-driven chaos engineering.
-  - 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)**: An open-source Git client designed for simplified visualization and error diagnosis.
+---
 
-- 📫 How to reach me: **me@andrewwangdev.com**   Business Inquiries: **biz@andrewwangdev.com**
+### 👨‍💻 About Me
 
-- 👨‍💻 My portfolio is available at **[https://andrewwangdev.com/about/](https://andrewwangdev.com/about/)**
+- 🔭 **Currently Engineering:** Scalable Full-Stack Architecture, Edge Computing Solutions and Edge AI
+- 🌱 **Core Technical Focus:** Distributed Systems, Cloud-Native Infrastructure, Linux Networking & Troubleshooting, and Reinforcement Learning.
+- 📝 **Technical Writing:** Read my tech deep-dives at **[andrewwangdev.com](https://andrewwangdev.com)**.
 
-- 📝 Read my tech deep-dives at **[https://andrewwangdev.com](https://andrewwangdev.com)** 
+---
 
-- 📄 Connect with me professionally on **[LinkedIn](https://www.linkedin.com/in/andrew-wang-swjtu/)**
+### 🚀 Featured Engineering
 
-<h3 align="left">Connect with me:</h3>
+- ✨ **[NanoMesh](https://github.com/AndrewWangDev/nanomesh)** · *[Live Demo ↗](https://nano.andrewwangdev.com)*
+  An **Edge-Native AI Orchestration System** featuring multi-modal intent routing and heterogeneous model scheduling across browser (WebGPU/Wasm) and edge nodes — cutting scheduling latency by **~200ms** and client-side parsing bandwidth by **80%–90%**.
+- ⚡ **[Panic Design](https://github.com/AndrewWangDev/panic_design)** · *[Live Demo ↗](https://panic.andrewwangdev.com)*
+  A **Control/Data-Plane Separated Edge Chaos Gateway** deployed across **edge nodes**, enabling zero-SDK-intrusion L4/L7 traffic degradation (TCP/HTTP payload mutation) and real-time routing telemetry at **<3ms** proxy latency.
+- 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)**
+  An open-source **Git Visualization & Diagnostics Client** built to simplify complex commit graph inspection and workflow error diagnosis.
+
+---
+
+### 🛠️ Languages & Infrastructure Stack
+
 <p align="left">
-<a href="https://github.com/AndrewWangDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AndrewWangDev GitHub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andrew-wang-swjtu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew Wang LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/andrewwangdev" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="Andrew Wang X" height="28" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,kotlin,react,astro,nodejs,linux,cloudflare,docker,nginx,aws,git,androidstudio" alt="Andrew's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
 </p>
