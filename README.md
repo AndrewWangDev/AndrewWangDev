@@ -18,7 +18,7 @@
 
 - 🔭 **Currently Engineering:** Scalable Full-Stack Architecture, Edge Computing Solutions and Edge AI
 - 🌱 **Core Technical Focus:** Distributed Systems, Cloud-Native Infrastructure, Linux Networking & Troubleshooting, and Reinforcement Learning.
-- 📝 **Technical Writing:** Read my tech deep-dives at **[andrewwangdev.com](https://andrewwangdev.com)**.
+- 📝 **Technical Writing:** Read my blog at **[andrewwangdev.com](https://andrewwangdev.com)**.
 
 ---
 
