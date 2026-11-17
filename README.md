@@ -38,3 +38,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,css,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
 </p>
+
+---
+
+### 📈 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewWangDev&theme=github-compact&hide_border=true&area=true"
+    alt="Andrew Wang's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
