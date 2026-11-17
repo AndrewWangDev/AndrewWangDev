@@ -36,5 +36,5 @@
 ### 🛠️ Languages & Infrastructure Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,css,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
 </p>
