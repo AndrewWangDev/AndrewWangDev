@@ -35,11 +35,23 @@
 
 ### 🛠️ Languages & Infrastructure Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,css,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
-</p>
+<table>
+<tr>
+<td width="58%" align="left" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,css,js,ts,linux,docker,aws,cloudflare,nginx,mysql,postgres,react,nodejs,git&perline=8" alt="Andrew's Tech Stack" />
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWangDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ### 📈 GitHub Contributions
 
