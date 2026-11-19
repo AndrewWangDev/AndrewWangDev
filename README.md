@@ -28,7 +28,7 @@
   An **Edge-Native AI Orchestration System** featuring multi-modal intent routing and heterogeneous model scheduling across browser (WebGPU/Wasm) and edge nodes — cutting scheduling latency by **~200ms** and client-side parsing bandwidth by **80%–90%**.
 - ⚡ **[Panic Design](https://github.com/AndrewWangDev/panic_design)** · *[Live Demo ↗](https://panic.andrewwangdev.com)*
   A **Control/Data-Plane Separated Edge Chaos Gateway** deployed across **edge nodes**, enabling zero-SDK-intrusion L4/L7 traffic degradation (TCP/HTTP payload mutation) and real-time routing telemetry at **<3ms** proxy latency.
-- 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)**
+- 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)** · *[Source Code ↗](https://github.com/AndrewWangDev/SyncBrow)*
   An open-source **Git Visualization & Diagnostics Client** built to simplify complex commit graph inspection and workflow error diagnosis.
 
 ---
