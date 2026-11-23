@@ -53,7 +53,7 @@
 ---
 
 
-### 📈 GitHub Contributions
+### 📈 GitHub Contributions (2000+ in the last year)
 
 <p align="center">
   <img
