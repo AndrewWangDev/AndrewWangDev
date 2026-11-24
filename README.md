@@ -16,20 +16,29 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Engineering:** Scalable Full-Stack Architecture, Edge Computing Solutions and Edge AI
-- 🌱 **Core Technical Focus:** Distributed Systems, Cloud-Native Infrastructure, Linux Networking & Troubleshooting, and Reinforcement Learning.
+- 🔭 **Currently Engineering:** Distributed Systems, Edge Computing and Edge AI.
+- 🌱 **Core Technical Focus:** Cloud-native infrastructure, heterogeneous AI inference, Reinforcemen Learning, and Linux networking,
 - 📝 **Technical Writing:** Read my blog at **[andrewwangdev.com](https://andrewwangdev.com)**.
-
 ---
 
 ### 🚀 Featured Engineering
 
-- ✨ **[NanoMesh](https://github.com/AndrewWangDev/nanomesh)** · *[Live Demo ↗](https://nano.andrewwangdev.com)*
-  An **Edge-Native AI Orchestration System** featuring multi-modal intent routing and heterogeneous model scheduling across browser (WebGPU/Wasm) and edge nodes — cutting scheduling latency by **~200ms** and client-side parsing bandwidth by **80%–90%**.
-- ⚡ **[Panic Design](https://github.com/AndrewWangDev/panic_design)** · *[Live Demo ↗](https://panic.andrewwangdev.com)*
-  A **Zero-Intrusion AIOps Edge Chaos Gateway** deployed across **edge nodes**, enabling zero-SDK-intrusion L4/L7 traffic degradation (TCP/HTTP payload mutation) and real-time routing telemetry at **<3ms** proxy latency.
-- 🌳 **[SyncTree](https://github.com/AndrewWangDev/SyncTree)** · *[Source Code ↗](https://github.com/AndrewWangDev/SyncBrow)*
-  An open-source **Git Visualization & Diagnostics Client** built to simplify complex commit graph inspection and workflow error diagnosis.
+- ✨ **[NanoMesh](https://github.com/AndrewWangDev/NanoMesh)** ·
+  *[Live Demo ↗](https://nano.andrewwangdev.com)*
+
+  A **Heterogeneous AI Pipeline Routing Engine** integrating browser-side
+  WebGPU/WASM inference, Cloudflare Workers AI, and external LLM providers.
+  Implements capability-aware model selection, sequential role-based workflows,
+  multimodal asset management, and provider fallback.
+
+- ⚡ **[Panic Design](https://github.com/AndrewWangDev/Panic_Design)** ·
+  *[Live Demo ↗](https://panic.andrewwangdev.com)* ·
+  *[Data Plane ↗](https://github.com/AndrewWangDev/Panic_Design_Gateway)*
+
+  An **AI-Driven Chaos Engineering Engine** built around separated control and
+  data planes for distributed system resilience testing. Supports SDK-free
+  L4/L7 fault injection, M2M APIs, Agent Skill integration, automated experiment
+  parameter generation, and real-time network telemetry.
 
 ---
 
