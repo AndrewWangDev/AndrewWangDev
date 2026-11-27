@@ -66,7 +66,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewWangDev&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=AndrewWangDev&theme=github-compact&hide_border=true&area=true"
     alt="Andrew Wang's GitHub Activity Graph"
     width="100%"
   />
